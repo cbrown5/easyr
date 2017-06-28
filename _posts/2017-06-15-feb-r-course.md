@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Beginner and Intermediate courses February 2018"
-category: event
+category: course
 published: True
 ---
 
