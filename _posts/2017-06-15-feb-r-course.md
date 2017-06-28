@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Beginner and Intermediate courses February 2017"
-category: course
+title: "Beginner and Intermediate courses February 2018"
+category: event
 published: True
 ---
 
-# Beginner and Intermediate courses February 2017
+# Beginner and Intermediate courses February 2018
 
 Our next beginner and intermediate R courses are scheduled for February 2017. Stay tuned for updates.
