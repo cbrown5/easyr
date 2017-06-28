@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Beginner and Intermediate courses February 2017"
-category: course;
+category: course
 published: True
 ---
 
