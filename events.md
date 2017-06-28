@@ -7,6 +7,6 @@ title: Events
 
 <ul class="list_post">
     {% for post in site.posts %}
-  <li><a class="button_post" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a></li>
+  <li><a class="button_post" href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }} </a></li>
   {% endfor %}
 </ul>
