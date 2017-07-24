@@ -311,7 +311,6 @@ img{
         padding:1.5rem;
     }
 }
-
 /* Clearing
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -340,7 +339,8 @@ h2:before,
 }
 
 .bg-one{
-    background-color: white;
+    background: white;
+    background: linear-gradient(#F5F5F5, #ffffff);
 }
 
 .bg-two{
@@ -364,7 +364,8 @@ h2:before,
 }
 
 .bg-four{
-    background: linear-gradient(to bottom, #ffffff 0%, #F5F5F5 100%);
+    background: white;
+    background: linear-gradient(#ffffff, #E0E0E0);
 }
 
 #contact{
