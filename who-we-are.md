@@ -20,6 +20,10 @@ For instance, anthony has written foundational papers on topics diverse as the r
 ![]({{ site.baseurl }}/images/david-schoeman.jpg)
 Dave is Associate Professor at the University of the Sunshine Coast, where he teaches ecology and statistics.
 
+Dave started to learn R a little more than decade ago. Being partially self-taught, with regular guidance from AJ Smit (now at the University of the Western Cape) and Anthony Richardson, he spend an inordinate amount of time making mistakes.
+
+He likes to think that teaching R to emerging generations of numerate ecologists will help them learn R more efficiently than he did, thereby giving them more time to spend on actually analysing data, which is the fun part.
+
 His research passion is the conservation of sandy beaches - a much overlooked ecosystem.
 
 When he is not out counting ghost crabs, Dave is at most at home coding up R scripts to analyse large data-sets. He frequently publishes his work in top academic journals Nature and Science, including global scale analyses for how warming is affecting ocean ecosystems.
