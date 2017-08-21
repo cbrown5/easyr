@@ -7,13 +7,13 @@ title: Events
 
 ## Professor Anthony Richardson
 ![]({{ site.baseurl }}/images/ant.jpeg)
-Anthony is Professor of Mathematics at the University of Queensland. He has a passion for teaching and teaches some of the largest under-graduate classes in his university, as well as supervising numerous PhD students.
+Anthony is Professor of Mathematical Ecology at the University of Queensland. He has a passion for mentoring and teaches some of the largest under-graduate classes in his university, as well as supervising numerous PhD students.
 
 He researches the effects of global change on ocean life, especially the tiny plankton that are the basis of ocean food-webs.
 
 Working with plankton, which are not visible to the naked eye, means he relies heavily on the statistics that R provides to better understand ecological patterns.
 
-For instance, anthony has written foundational papers on topics diverse as the response of plankton to climate change and the use of machine learning to identify patterns in satellite images of the oceans.
+For instance, Anthony has written foundational papers on topics as diverse as the response of plankton to climate change and the use of machine learning to identify patterns in satellite images of the oceans.
 
 
 ## Dr David Schoeman
