@@ -9,6 +9,8 @@ published: True
 
 These R workshops are especially tailored for biology/ecology.
 
+Location is at the Centre for Applications in Natural Resource Management, The University of Queensland in Brisbane Australia.   
+
 Presenters:  Prof Anthony Richardson (UQ Centre for Applications in Natural Resource Mathematics), Associate Prof David Schoeman (University of the Sunshine Coast),
 Dr Chris Brown (Griffith University) and the Advanced R Dr Bill Venables (CSIRO).
 
