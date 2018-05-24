@@ -9,7 +9,7 @@ title: My page
 <h2>R is the language of data analysis</h2>
 <p>Learn R with us</p>
 <p><a class="button_main" href="{{ site.baseurl }}/books.html">books</a></p>
-<p><a class="button_main" href="{{ site.baseurl }}/courses.html">next course Feb 2018</a></p>
+<p><a class="button_main" href="{{ site.baseurl }}/courses.html">next course Feb 2019</a></p>
 </div>
 
 
