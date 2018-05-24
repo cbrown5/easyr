@@ -5,7 +5,7 @@ title: Events
 
 # Courses
 
-## Upcoming courses
+## Past and upcoming courses
 
 <ul class="list_post">
     {% for post in site.posts %}
